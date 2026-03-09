@@ -16,7 +16,7 @@ import com.example.artifact.service.ProductService;
 import lombok.RequiredArgsConstructor;
 
 @RestController
-@EnableWebMvc
+//@EnableWebMvc
 @RequestMapping("/api/product")
 @RequiredArgsConstructor
 public class ProductController {
